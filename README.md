@@ -26,19 +26,7 @@ statement to solve this problem).](https://github.com/atiqrs/CProgram/blob/maste
 
 9. [Write a c program that print following structure by applying nested loop–](https://github.com/atiqrs/CProgram/blob/master/09.NestedLoopOne.c)
 
->1
-
->2		2
-
->3 	3 	3
-
->4 	4 	4 	4
-
->5 	5 	5 	5 	5
+>1<br>2		2<br>3 	3 	3<br>4 	4 	4 	4<br>5 	5 	5 	5 	5
 
 10. [Write a c program that print following structure by applying nested loop–](https://github.com/atiqrs/CProgram/blob/master/10.NestedLoopTwo.c)
->1
->1 2
->1 2 3
->1 2 3 4
->1 2 3 4 5
+>1<br>1 2<br>1 2 3<br>1 2 3 4<br>1 2 3 4 5
