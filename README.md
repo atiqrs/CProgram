@@ -30,7 +30,9 @@ statement to solve this problem).](https://github.com/atiqrs/CProgram/blob/maste
  > 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10
 
 9. [Write a c program that print following structure by applying nested loop–](https://github.com/atiqrs/CProgram/blob/master/09.NestedLoopOne.c)
+
 >1
+
 >2 2
 >3 3 3
 >4 4 4 4
