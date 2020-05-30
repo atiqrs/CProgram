@@ -26,18 +26,19 @@ circle.](https://github.com/atiqrs/CProgram/blob/master/06.area%20and%20circumfe
 7. [Write a c program that takes an alphabet and print whether it is vowel or consonant (apply switch
 statement to solve this problem).](https://github.com/atiqrs/CProgram/blob/master/07.print%20alphabet%20is%20vowel%20or%20consonant.c)
 
-> 8. [Apply loop technique, print the following statement:](https://github.com/atiqrs/CProgram/blob/master/07.print%20alphabet%20is%20vowel%20or%20consonant.c) 
-  > 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10
+8. [Apply loop technique, print the following statement:](https://github.com/atiqrs/CProgram/blob/master/08.Loop.c) 
+ > 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10
 
-9. Write a c program that print following structure by applying nested loop–
-1
-2 2
-3 3 3
-4 4 4 4
-5 5 5 5 5
-10. Write a c program that print following structure by applying nested loop–
-1
-1 2
-1 2 3
-1 2 3 4
-1 2 3 4 5
+9. [Write a c program that print following structure by applying nested loop–](https://github.com/atiqrs/CProgram/blob/master/09.NestedLoopOne.c)
+>1
+>2 2
+>3 3 3
+>4 4 4 4
+>5 5 5 5 5
+
+10. [Write a c program that print following structure by applying nested loop–](https://github.com/atiqrs/CProgram/blob/master/10.NestedLoopTwo.c)
+>1
+>1 2
+>1 2 3
+>1 2 3 4
+>1 2 3 4 5
