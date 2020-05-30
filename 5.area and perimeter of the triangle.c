@@ -4,19 +4,23 @@ main()
 {
     int length,height;
     float thirdSide,area,perimeter;
+
     //input section
     printf("Enter length: ");
     scanf("%d",&length);
     printf("Enter height: ");
     scanf("%d",&height);
+
     //calculation section
     area = (length*height)/2;
     thirdSide = sqrt(pow(length,2)+ pow(height,2)); //(pow(length,2) == (length*length)
     perimeter = length + height + thirdSide;
+
     //output section
     printf("\nArea of the triangle is: %.2f\n",area);
     printf("Perimeter of the triangle is: %.2f\n",perimeter);
 }
+
 /*
     Functions introducing:
 
