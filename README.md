@@ -1,10 +1,5 @@
 # CProgram
-FU Assignment
-
-All Lab work
-
-automatic!
-[GitHub](http://github.com)
+FU Assignment (All Lab work)
 
 1. [Write a c program that takes a number as input and check whether it is even or odd.](https://github.com/atiqrs/CProgram/blob/master/01.even_or_odd.c)
 
@@ -33,10 +28,13 @@ statement to solve this problem).](https://github.com/atiqrs/CProgram/blob/maste
 
 >1
 
->2 2
->3 3 3
->4 4 4 4
->5 5 5 5 5
+>2		2
+
+>3 	3 	3
+
+>4 	4 	4 	4
+
+>5 	5 	5 	5 	5
 
 10. [Write a c program that print following structure by applying nested loop–](https://github.com/atiqrs/CProgram/blob/master/10.NestedLoopTwo.c)
 >1
